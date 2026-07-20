@@ -46,7 +46,7 @@ export function Hero() {
           playsInline
           className="absolute inset-0 h-full w-full object-cover"
         >
-          <source src="/public/vid2.mp4" type="video/mp4" />
+          <source src="/vid2.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-black/20 to-black/30" />
 
